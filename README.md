@@ -27,15 +27,15 @@ pip install pandas
 ## Ejecución del programa
 Antes de ejecutar es necesario cambiar algunos parámetros para utilizar en otro establecimiento, para esto hay que editar el archivo carga_masiva.py y cambiar:
 
--archivo = 'IEEH.xlsx' (Nombre del archivo, que debe encontrarse en la misma carpeta del proyecto)
+-**archivo** = 'IEEH.xlsx' (Nombre del archivo, que debe encontrarse en la misma carpeta del proyecto)
 
--largo= 10 (Largo identificador de ficha y episodio)
+-**largo**= 10 (Largo identificador de ficha y episodio)
 
--identificador_hospital = 'HMET' (Prefijo del identificador de ficha)
+-**identificador_hospital** = 'HMET' (Prefijo del identificador de ficha)
 
--identificador_episodio = 'H' (Prefijo del identificador de episodio)
+-**identificador_episodio** = 'H' (Prefijo del identificador de episodio)
 
--codigo_ss = '110' (Código del servicio de salud al que pertenece el establecimiento)
+-**codigo_ss** = '110' (Código del servicio de salud al que pertenece el establecimiento)
 
 
 Para ejecutar el programa es necesario abrir la terminal, ingresar a la carpeta donde está alojado el proyecto y ejecutar la siguiente línea:
