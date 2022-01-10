@@ -37,6 +37,7 @@ Antes de ejecutar es necesario cambiar algunos parámetros para utilizar en otro
 
 -codigo_ss = '110' (Código del servicio de salud al que pertenece el establecimiento)
 
+
 Para ejecutar el programa es necesario abrir la terminal, ingresar a la carpeta donde está alojado el proyecto y ejecutar la siguiente línea:
 
 ```
